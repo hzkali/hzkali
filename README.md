@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hzkali" alt="hzkali" /></a> </p>
 
-- 🔭 I’m currently working on [harpswap v1](https://github.com/hzkali/Harpswap-v1-test)
+- 🔭 I’m currently working on [harpiasprotocol](https://github.com/hzkali/harpiasprotocol)
 
-- 🌱 I’m currently learning **solidity,near and eth Ecosystem**
+- 🌱 I’m currently learning **solidity,Rust and eth Ecosystem**
 
-- 👯 I’m looking to collaborate on [harpswap v2](https://github.com/hzkali/Harpswap-v2)
+- 👯 I’m looking to collaborate on [harpiasprotocol-mainnet-v1](https://github.com/hzkali/harpiasprotocol-mainnet-v1)
 
-- 🤝 I’m looking for help with [harpswap v3](https://github.com/hzkali/Harpswap-v3)
+- 🤝 I’m looking for help with [harpiasprotocol-mainnet-v2](https://github.com/hzkali/harpiasprotocol-mainnet-v2)
 
 - 📫 How to reach me **muhammedenesyellice@gmail.com**
 
