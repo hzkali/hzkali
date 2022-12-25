@@ -1,6 +1,6 @@
 <img align="left" height="200" src="https://media.tenor.com/uHVmd0uBuU0AAAAC/bored-ape-yacht-club-nft.gif"  />
 
-###
+<br>
 
 <h1 align="left">Hi 👋! My name is M.Enes Yellice</h1>
 
@@ -101,5 +101,4 @@
 
 <img src="https://raw.githubusercontent.com/hzkali/hzkali/blob/output/snake.svg" alt="Snake animation" />
 
-###
-Profile Readme Generator
+
