@@ -1,4 +1,4 @@
-<img align="left" height="200" src="https://media.tenor.com/uHVmd0uBuU0AAAAC/bored-ape-yacht-club-nft.gif"  />
+<img align="left" height="150" src="https://media.tenor.com/uHVmd0uBuU0AAAAC/bored-ape-yacht-club-nft.gif"  />
 
 <h1 align="center">Hi 👋, I'm Enes yellice</h1>
 <h3 align="center">Full Stack Developer And Cyber security consultant</h3>
