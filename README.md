@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Enes yellice</h1>
 <h3 align="center">Full Stack Developer And Cyber security consultant</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hzkali&label=Profile%20views&color=0e75b6&style=flat" alt="hzkali" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rust-lang&label=Profile%20views&color=0e75b6&style=flat" alt="hzkali" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hzkali" alt="hzkali" /></a> </p>
 
